@@ -32,9 +32,13 @@ Start the API server:
 ```bash
 cd RESTAPI_
 uvicorn main:app --reload
-python request_.py
-``
+
 In request_.py, specify the parameters based on your chosen configuration.
+
+python request_.py
+
+``
+
 
 ### 📊 EDA and Modeling
 
