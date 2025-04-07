@@ -1,0 +1,22 @@
+# Core Libraries
+numpy==1.26.4
+pandas==2.2.3
+matplotlib==3.7.5
+seaborn==0.12.2
+requests==2.32.3
+joblib==1.4.2
+tqdm==4.67.1
+scipy
+# Machine Learning
+scikit-learn==1.2.2
+
+# Deep Learning
+torch 
+# Model Tracking
+wandb
+
+# Web Interface & API
+gradio
+fastapi
+pydantic
+uvicorn  # to run the FastAPI app
