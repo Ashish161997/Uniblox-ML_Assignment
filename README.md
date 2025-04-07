@@ -36,8 +36,7 @@ uvicorn main:app --reload
 #In request_.py, specify the parameters based on your chosen configuration.
 
 python request_.py
-
-``
+```
 
 
 ### 📊 EDA and Modeling
