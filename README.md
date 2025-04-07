@@ -33,7 +33,9 @@ Start the API server:
 cd RESTAPI_
 uvicorn main:app --reload
 python request_.py
-```
+``
+In request_.py, specify the parameters based on your chosen configuration.
+
 ### 📊 EDA and Modeling
 
 All Exploratory Data Analysis, feature engineering, and model selections (ML & DL) are documented in:
