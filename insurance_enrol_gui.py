@@ -2,7 +2,7 @@ import gradio as gr
 import pandas as pd
 import joblib
 from config import config
-# Load model and preprocessor
+# Load model 
 model = joblib.load(f"{config['MODEL_PATH']}/enrollment_model_.joblib")
 
 def predict(employee_id, age, gender, marital_status, salary, 
