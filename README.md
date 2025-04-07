@@ -33,7 +33,7 @@ Start the API server:
 cd RESTAPI_
 uvicorn main:app --reload
 
-In request_.py, specify the parameters based on your chosen configuration.
+#In request_.py, specify the parameters based on your chosen configuration.
 
 python request_.py
 
