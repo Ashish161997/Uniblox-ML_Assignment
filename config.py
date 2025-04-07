@@ -4,9 +4,9 @@ from pathlib import Path
 BASE_DIR = Path(__file__).parent
 
 config = {
-    'DATA_PATH': str(BASE_DIR / "data"),  # Converts to absolute path
+    'DATA_PATH': str(BASE_DIR / "data"), 
     'MODEL_PATH': str(BASE_DIR / "model"),
-    'BASE_PATH': str(BASE_DIR),  # Points to B:\Uniblox
+    'BASE_PATH': str(BASE_DIR),  
 }
 
 # Validation (optional but recommended)
