@@ -55,7 +55,6 @@ This notebook includes:
   - F1 Score
   - ROC AUC
 - 🔬 **Feature Importance Analysis**:
-  - SHAP (SHapley Additive Explanations)
   - RandomForest-based importance
 
 ---
