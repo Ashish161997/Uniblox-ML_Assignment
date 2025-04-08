@@ -5,7 +5,7 @@ As part of a company-wide modernization initiative, a new voluntary insurance pr
 ---
 
 ## 🚀 Getting Started
-## 🧪 How to Run
+
 
 ### 📦 Install Dependencies
 
