@@ -1,4 +1,4 @@
-## 📌 Problem Statement
+## 📌 Problem-Statement
 
 As part of a company-wide modernization initiative, a new voluntary insurance product is being piloted. The business wants to use ML to predict whether an employee will opt in to this product using demographic and employment-related data.
 
